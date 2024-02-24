@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon Leo</h1>
 <h3 align="center">SEO Architect Crafting Content for Digital Dominance</h3>
-<img align="right" alt="Coding" width="800x600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fseo&psig=AOvVaw3PkZPq3LE5GAoIuNrDU57S&ust=1708848036464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODOstbBw4QDFQAAAAAdAAAAABAR">
+<img align="right" alt="Coding" width="640" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fseo&psig=AOvVaw3PkZPq3LE5GAoIuNrDU57S&ust=1708848036464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODOstbBw4QDFQAAAAAdAAAAABAR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsapphire-falls.com%2Fwebsite-services%2Fsearch-engine-optimization-seo%2F&psig=AOvVaw2Ae04nWL-eIL04ifC6xSiv&ust=1708848440046000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj2hdTCw4QDFQAAAAAdAAAAABAW)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonleo&label=Profile%20views&color=0e75b6&style=flat" alt="simonleo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sangvishtech" target="blank"><img src="https://img.shields.io/twitter/follow/sangvishtech?logo=twitter&style=for-the-badge" alt="sangvishtech" /></a> </p>
