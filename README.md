@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="640" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fseo&psig=AOvVaw3PkZPq3LE5GAoIuNrDU57S&ust=1708848036464000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODOstbBw4QDFQAAAAAdAAAAABAR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsapphire-falls.com%2Fwebsite-services%2Fsearch-engine-optimization-seo%2F&psig=AOvVaw2Ae04nWL-eIL04ifC6xSiv&ust=1708848440046000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj2hdTCw4QDFQAAAAAdAAAAABAW)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonleo&label=Profile%20views&color=0e75b6&style=flat" alt="simonleo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sangvishtech" target="blank"><img src="https://img.shields.io/twitter/follow/sangvishtech?logo=twitter&style=for-the-badge" alt="sangvishtech" /></a> </p>
-
 - 🔭 I’m currently working on **Rental Script, Alibaba Clone, Aliexpress Clone, eBay Clone, Etsy Clone, Amazon Clone, Taskrabbit Clone, Thumbtack Clone, Handy Clone, Themeforest Clone, Marty Multi vendor Marketplace Script**
 
 - 🌱 I’m currently learning **Machine learning, Advanced Technologies, SEO Strategies**
@@ -13,13 +11,7 @@
 
 - 🤝 I’m looking for help with **Start Your Business & Achieve Your Business Goal**
 
-- 👨‍💻 All of my projects are available at [https://sangvish.com/portfolio/](https://sangvish.com/portfolio/)
-
-- 📝 I regularly write articles on [https://sangvish.com/blog/](https://sangvish.com/blog/)
-
 - 💬 Ask me about **Ondemand App, Cloning App**
-
-- 📫 How to reach me **info@sangvish.com**
 
 - 📄 Connect With Me [https://wa.me/+918300505021](https://wa.me/+918300505021)
 
@@ -27,13 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sangvishtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangvishtech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/simon-leo-697406226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-leo-697406226/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=61553515244486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61553515244486" height="30" width="40" /></a>
 <a href="https://instagram.com/leosimon159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leosimon159" height="30" width="40" /></a>
 <a href="https://dribbble.com/simonleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="simonleo" height="30" width="40" /></a>
 <a href="https://medium.com/@sonsimon159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonsimon159" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sangvish" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
